@@ -34,5 +34,3 @@ There are plans to add features like tracking parcel, delivery speed options, an
 Contact
 
 If you want to contact me you can reach me at aryavachin@gmail.com
-
-If you want to contact me you can reach me at your_email@domain.com.
